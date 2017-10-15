@@ -4,7 +4,7 @@ A WIP. The current implementation only accepts a single command called `req`.
 
 #### Usage:
 
-```javascript
+```
 $ npm install exor -g
 
 exor req -u <uri> -m <method> -h <headers>

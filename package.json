@@ -1,10 +1,14 @@
 {
   "name": "exor",
+  "author": "Blake Guilloud",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "bin": {
+    "exor": "./index.js"
+  },
   "dependencies": {
-    "colors": "^1.1.2",
+    "chalk": "^2.1.0",
     "commander": "^2.11.0",
     "request": "^2.83.0",
     "request-promise": "^4.2.2"

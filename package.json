@@ -1,6 +1,7 @@
 {
   "name": "exor",
   "author": "Blake Guilloud",
+  "description": "A silly project to make http requests from the command line",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
